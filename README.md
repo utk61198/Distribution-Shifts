@@ -1,6 +1,7 @@
 # Distribution-Shifts
 
-This repository conatains the Colab Notebook for performing image classification tasks while tackling Distribution Shifts
+This repository conatains the Colab Notebook for performing image classification tasks while tackling Distribution Shifts.
+(The algorithm proposed reduces the computational search space for finding the combination of a DL model and a re-weighting algorithm)
 
 Re-Weighting Algorithms used
 1. RuLSIF
